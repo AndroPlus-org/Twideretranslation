@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="entries_theme_background">
+		<item>デフォルト</item>
+		<item>白/黒一色</item>
+		<item>背景透過</item>
+	</string-array>
+
+</resources>

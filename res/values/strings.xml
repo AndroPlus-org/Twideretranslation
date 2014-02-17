@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<string name="app_name">Twidere Translator for JPN</string>
+<string name="app_description">Fix Japanese translation of Twidere</string>
+
+<string name="empty_account_selection_disallowed">最低でも一つアカウントを選んでください。</string>
+<string name="multi_select">複数選択</string>
+<string name="long_click_to_open_menu">長押しでメニューを開く</string>
+
+
+</resources>

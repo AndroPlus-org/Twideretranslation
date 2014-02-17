@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Twidere Translator</string>
+    <string name="app_description">Twidereの日本語翻訳を追加･修正します。</string>
+
+</resources>
